@@ -4,9 +4,9 @@
 
 This repository is a private working environment for exploring how reusable CX knowledge could be structured, tested and applied across customer experience work.
 
-The current objective is not to implement a predetermined technical solution.
+The objective is not to implement a predetermined technical solution.
 
-The objective is to understand whether recurring CX knowledge can be made easier to govern, reuse and apply across teams, channels and delivery work without creating unnecessary documentation or maintenance overhead.
+The objective is to understand whether recurring CX knowledge can be made easier to govern, reuse and apply across teams and delivery work without creating unnecessary documentation or maintenance overhead.
 
 ## Current phase
 
@@ -14,17 +14,17 @@ Reconnection and scope definition.
 
 The immediate priority is to reconnect with the working group and collaboratively confirm:
 
-- the problem worth solving;
-- who experiences the problem;
-- where value could be created;
-- what belongs in scope;
-- what should remain out of scope;
-- what strategic direction should be explored; and
-- what small experiments could provide useful evidence.
+* the problem worth solving;
+* who experiences the problem;
+* where value could be created;
+* what belongs in scope;
+* what should remain out of scope;
+* what strategic direction should be explored; and
+* what small experiments could provide useful evidence.
 
 ## Working question
 
-> How might we make important CX knowledge easier to govern, reuse and apply across teams, channels and delivery work without creating more documentation or maintenance overhead?
+> How might we make important CX knowledge easier to govern, reuse and apply across teams and delivery work without creating more documentation or maintenance overhead?
 
 ## Operating model
 
@@ -32,39 +32,39 @@ The immediate priority is to reconnect with the working group and collaborativel
 
 Confluence is the project source of truth for:
 
-- agreed scope;
-- stakeholder-visible project context;
-- confirmed decisions;
-- endorsed direction;
-- workshop outcomes;
-- project status;
-- agreed artefacts.
+* agreed scope;
+* stakeholder-visible project context;
+* confirmed decisions;
+* endorsed direction;
+* workshop outcomes;
+* project status;
+* agreed artefacts.
 
 ### Jira
 
 Jira manages:
 
-- delivery activity;
-- owners;
-- priorities;
-- work packages;
-- tasks;
-- dependencies;
-- blockers;
-- progress.
+* delivery activity;
+* owners;
+* priorities;
+* work packages;
+* tasks;
+* dependencies;
+* blockers;
+* progress.
 
 ### Bitbucket
 
 This repository is a private working environment for:
 
-- hypotheses;
-- exploratory models;
-- prototypes;
-- reusable artefact experiments;
-- technical feasibility work;
-- pattern development;
-- validation evidence;
-- lessons learned.
+* hypotheses;
+* exploratory models;
+* prototypes;
+* reusable artefact experiments;
+* technical feasibility work;
+* pattern development;
+* validation evidence;
+* lessons learned.
 
 Material in this repository should not be treated as an agreed organisational standard unless that decision has been recorded in Confluence.
 
@@ -102,13 +102,13 @@ They are not assumed requirements.
 
 Clearly distinguish:
 
-- evidence;
-- stakeholder input;
-- hypothesis;
-- interpretation;
-- decision;
-- experiment;
-- recommendation.
+* evidence;
+* stakeholder input;
+* hypothesis;
+* interpretation;
+* decision;
+* experiment;
+* recommendation.
 
 ## Repository rules
 
@@ -127,20 +127,20 @@ Clearly distinguish:
 
 This work is successful if it helps determine whether a reusable CX knowledge capability can:
 
-- reduce repeated interpretation;
-- reduce conflicting versions;
-- improve findability;
-- strengthen traceability;
-- improve strategy-to-delivery translation;
-- reduce ongoing maintenance;
-- support consistent CX implementation; and
-- create stronger foundations for appropriate future automation or AI use.
+* reduce repeated interpretation;
+* reduce conflicting versions;
+* improve findability;
+* strengthen traceability;
+* improve strategy-to-delivery translation;
+* reduce ongoing maintenance;
+* support consistent CX implementation; and
+* create stronger foundations for appropriate future automation or AI use.
 
 The appropriate outcome may be:
 
-- Adopt
-- Adapt
-- Limit
-- Stop
+* Adopt
+* Adapt
+* Limit
+* Stop
 
-A successful experiment does not require adoption of a technical repository-based architecture.
+A successful experiment does not require adoption of a repository-based technical architecture.
