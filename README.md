@@ -8,6 +8,18 @@ The objective is not to implement a predetermined technical solution.
 
 The objective is to understand whether recurring CX knowledge can be made easier to govern, reuse and apply across teams and delivery work without creating unnecessary documentation or maintenance overhead.
 
+## Relationship to current CX priority
+
+The current portfolio priority is **business-led Customer Data Architecture**.
+
+This repository is a supporting capability, not the primary architecture or strategy.
+
+Its contribution is to test how stable CX knowledge, rules and reusable artefacts can be governed once and applied across people, AI and delivery systems where that creates practical value.
+
+Where Customer Data Architecture work exposes reusable knowledge needs — for example definitions, stewardship rules, service patterns, Mode expectations or validation rules — this project may provide an implementation pattern.
+
+Do not reshape this repository into a customer-data store, customer master or parallel architecture source.
+
 ## Current phase
 
 Reconnection and scope definition.
