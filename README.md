@@ -1,5 +1,8 @@
 # Reusable CX Knowledge Architecture
 
+> **Bitbucket transition (26 October 2026):** This GitHub repository is an existing project reference, not the intended ongoing CoM source of truth. The Bitbucket-first operating architecture and controlled Strategic OS intake are staged in [CX portfolio transition](https://github.com/jose-andr-cx-projects/cx-portfolio-context/tree/main/bitbucket-transition). Before replacing any organisational records, compare against the latest approved Bitbucket/Confluence/Jira sources. No ongoing cross-platform mirroring is intended. This note does not change the project's substantive decisions or status.
+
+
 ## Purpose
 
 This repository is a private working environment for exploring how reusable CX knowledge could be structured, tested and applied across customer experience work.
